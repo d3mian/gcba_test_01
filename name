@@ -1,0 +1,9 @@
+<div class="row">
+  <div class="span6">
+    Columna de nivel 1
+    <div class="row">
+      <div class="span3">Nivel 2</div>
+      <div class="span3">Nivel 2</div>
+    </div>
+  </div>
+</div>
